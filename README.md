@@ -1,5 +1,7 @@
 # Physical Modeling using Simscape
 
+北航多旋翼飞行器理论与实践系列实验课程视频地址：https://www.bilibili.com/video/BV1mE411T7ir
+
 This MATLAB FileExchange entry contains files related to the Physical Modeling for Formula Student training
 
 ## Part 1 Simscape Training
